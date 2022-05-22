@@ -1,0 +1,32 @@
+body {
+    background-color: #17202A ;
+    font-family: 'Lobster', cursive;
+    color: aliceblue;
+}
+p {
+    width: 30%;
+    margin-top: 3%;
+    border-radius: 5%;
+    padding: auto;
+}
+
+#tribute-info {
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+#image {
+    display: block;
+    width: 100%;
+    max-width: 1000px;
+}
+
+hr {
+    border: dotted;
+}
+
+sup {
+    text-decoration: underline;
+}
